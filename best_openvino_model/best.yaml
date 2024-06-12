@@ -1,0 +1,9 @@
+stride: 32
+names:
+  0: Large_Fire
+  1: Medium_Fire
+  2: Small_Fire
+  3: Large_Smoke
+  4: Medium_Smoke
+  5: Small_Smoke
+  6: No_Fire
